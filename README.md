@@ -29,6 +29,8 @@
   
  #### 2.2 Интерфейс пользователя
  
+ ![Alt text](/masik93/laboratornaya2/blob/master/image/top.7f66cff1.png?raw=true "Optional Title")
+ 
  
   
   
