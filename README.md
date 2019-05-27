@@ -3,7 +3,7 @@
 ## Требования к проекту
 
 ### Содержание
-[1 Введение](/laboratornaya2#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+[1 Введение](#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
 
 [1.1 Назначение](https://github.com/masik93/laboratornaya2#11-%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
 
